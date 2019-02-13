@@ -1,2 +1,12 @@
 # bike-rack
-App to promote biking (Kreative Koalas' submission for Technovation Challenge 2019)
+App to find bike racks while biking. Built with MIT App Inventor as a submission to the Technovation Challenge 2019.
+
+## Team members (in alphabetical order):
+- Adhara Collins
+- Iris Osborne
+- Manvi Sharma
+- Maya Their
+- Ruhi Gill
+
+## Mentor:
+- [Gaurav Sahu](https://github.com/demfier)
