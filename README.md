@@ -1,5 +1,5 @@
 # bike-rack
-App to find bike racks while biking. Built with MIT App Inventor as a submission to the Technovation Challenge 2019.
+App to promote biking by providing features such as seamless bike-rack search, reporting lost bike and panels to access biking rules. Built with MIT App Inventor as a submission to the Technovation Challenge 2019.
 
 ## Team members (in alphabetical order):
 - Adhara Collins
